@@ -16,7 +16,7 @@ services:
       - key: GENERIC_TIMEZONE
         value: America/Havana
       - key: N8N_ENCRYPTION_KEY
-        value: cambia-esto-por-una-clave-secreta-muy-larga
+        value: {ty:2,N8z3y4~~m]|<:BS7f
       - key: NODE_OPTIONS
         value: "--max_old_space_size=460"
       - key: N8N_DIAGNOSTICS_ENABLED
